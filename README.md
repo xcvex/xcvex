@@ -43,8 +43,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xcvex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="xcvex's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xcvex&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xcvex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="xcvex's Github Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xcvex&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="Top Languages" />
 </div>
 
 <br>
