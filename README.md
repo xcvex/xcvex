@@ -1,35 +1,54 @@
-<!--
-✨ 复制从这里开始的所有内容
-​替换所有的 "your-username" 为你的 GitHub ID
--->
-​<div align="center">
-​<!-- 1. 打字机特效标题 -->
-​<a href="https://www.google.com/search?q=https://github.com/xcvex">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D30%26duration%3D3000%26pause%3D1000%26color%3D33CCFF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DHello,%2BI%27m%2Ba%2BDeveloper%3BCode%2Bis%2BLife%3BWelcome%2Bto%2Bmy%2BProfile" alt="Typing SVG" />
-</a>
-​<h3>🚀 致力于构建优雅、高效的代码解决方案</h3>
-​</div>
-​👨‍💻 关于我 (About Me)
-​🔭 我目前正在开发 项目名称
-​🌱 我正在深入学习 Vue3, React, 和 Node.js
-​💬 关于 前端开发 的问题可以问我
-​📫 邮箱: qsc@qscuio.com
-​🛠️ 技术栈 (Tech Stack)
-​<div align="center">
-<!-- 2. 技术栈图标墙 -->
-<!-- 修改 i= 后面的参数可更换图标 -->
-<a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,ts,react,vue,html,css,python,java,mysql,git,vscode,docker%26perline%3D12" />
-</a>
+<div align="center">
+
+  <h1>Hi there, I'm <a href="https://github.com/xcvex">xcvex</a>! 👋</h1>
+
+  <h3>Network Device Developer | Linux Kernel Enthusiast</h3>
+
+  <p>
+    I specialize in <b>embedded systems</b> and <b>network programming</b>, with a deep focus on the <b>Linux Kernel</b>.
+    <br>
+    Passionate about low-level optimization, driver development, and building high-performance network infrastructures.
+  </p>
+
+  <br>
+
+  <!-- Typing SVG -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=33CCFF&center=true&vCenter=true&width=435&lines=Linux+Kernel+Hacker;Network+Device+Development;C%2FC%2B%2B+%26+Python+Expert;Open+Source+Contributor" alt="Typing SVG" />
+
 </div>
-​📊 GitHub 数据统计 (Stats)
-​<div align="center">
-​<!-- 3. 数据统计卡片 (注意替换 username) -->
-​<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dxcvex%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117" height="150" alt="stats" />
-​<!-- 4. 常用语言卡片 -->
-​<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dxcvex%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0d1117" height="150" alt="langs" />
-​</div>
-​<div align="center">
-<!-- 5. 底部波浪装饰 -->
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26height%3D100%26section%3Dfooter"/>
+
+<br>
+
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <!-- Icons for C, C++, Python, Linux, Bash, Git, Docker, CMake, etc. -->
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,linux,bash,git,docker,cmake,vim,github&perline=10" alt="My Skills"/>
+  </a>
+</div>
+
+<br>
+
+## 🔭 About Me
+
+- ⚙️ I work extensively with **Network Device Drivers** and the **Linux Networking Stack**.
+- 🐧 Deep understanding of **Linux Kernel internals**.
+- ⚡ Experienced in high-performance computing using **C** and **C++**.
+- 🐍 I use **Python** for automation, testing, and rapid prototyping.
+- 💬 Ask me about **TCP/IP, Kernel Modules, or eBPF**.
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xcvex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="xcvex's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xcvex&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
